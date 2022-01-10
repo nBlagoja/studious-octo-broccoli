@@ -4,5 +4,3 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus consequat eu od
 
 Installations Instructions
 -------------------------
-
-Content goes here
